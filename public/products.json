@@ -1,0 +1,118 @@
+{
+  "result": [
+    {
+      "name": "PET보틀 - 1 (290ml)",
+      "code": 1,
+      "imgName": "product2.png",
+      "price": 5800
+    },
+    {
+      "name": "PET보틀 - 2 (580ml)",
+      "code": 2,
+      "imgName": "product3.png",
+      "price": 51800
+    },
+    {
+      "name": "PET보틀 - 3 (250ml)",
+      "code": 3,
+      "imgName": "product4.png",
+      "price": 63400
+    },
+    {
+      "name": "PET보틀 - 4 (450ml)",
+      "code": 4,
+      "imgName": "product5.png",
+      "price": 72800
+    },
+    {
+      "name": "PET보틀 - 5 (580ml)",
+      "code": 5,
+      "imgName": "product6.png",
+      "price": 34000
+    },
+    {
+      "name": "PET보틀 - 6 (360ml)",
+      "code": 6,
+      "imgName": "product7.png",
+      "price": 46800
+    },
+    {
+      "name": "PET보틀 - 7 (220ml)",
+      "code": 7,
+      "imgName": "product8.png",
+      "price": 62000
+    },
+    {
+      "name": "PET보틀 - 8 (300ml)",
+      "code": 8,
+      "imgName": "product1.png",
+      "price": 6700
+    },
+    {
+      "name": "PET보틀 - 9 (430ml)",
+      "code": 9,
+      "imgName": "product2.png",
+      "price": 35600
+    },
+    {
+      "name": "PET보틀 - 10 (230ml)",
+      "code": 10,
+      "imgName": "product3.png",
+      "price": 73000
+    },
+    {
+      "name": "PET보틀 - 11 (340ml)",
+      "code": 11,
+      "imgName": "product4.png",
+      "price": 7800
+    },
+    {
+      "name": "PET보틀 - 12 (540ml)",
+      "code": 12,
+      "imgName": "product5.png",
+      "price": 9100
+    },
+    {
+      "name": "PET보틀 - 13 (560ml)",
+      "code": 13,
+      "imgName": "product6.png",
+      "price": 19400
+    },
+    {
+      "name": "PET보틀 - 14 (340ml)",
+      "code": 14,
+      "imgName": "product7.png",
+      "price": 32500
+    },
+    {
+      "name": "PET보틀 - 15 (580ml)",
+      "code": 15,
+      "imgName": "product8.png",
+      "price": 50200
+    },
+    {
+      "name": "PET보틀 - 16 (540ml)",
+      "code": 16,
+      "imgName": "product1.png",
+      "price": 34100
+    },
+    {
+      "name": "PET보틀 - 17 (380ml)",
+      "code": 17,
+      "imgName": "product2.png",
+      "price": 30800
+    },
+    {
+      "name": "PET보틀 - 18 (420ml)",
+      "code": 18,
+      "imgName": "product3.png",
+      "price": 49400
+    },
+    {
+      "name": "PET보틀 - 19 (410ml)",
+      "code": 19,
+      "imgName": "product4.png",
+      "price": 59000
+    }
+  ]
+}

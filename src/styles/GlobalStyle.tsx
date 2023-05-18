@@ -6,7 +6,7 @@ const globalCSS = css`
 
 	@font-face {
 		font-family: 'Noto Sans KR';
-		src: url('https://fonts.gstatic.com/s/notosanskr/v2/NotoSansKR-Regular.woff2')
+		src: url('https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Regular.woff2')
 			format('woff2');
 		font-weight: normal;
 		font-style: normal;
@@ -15,7 +15,9 @@ const globalCSS = css`
 	body {
 		font-family: 'Noto Sans KR', sans-serif;
 	}
-
+	div {
+		box-sizing: border-box;
+	}
 	// 스크롤 파트
 	::-webkit-scrollbar,
 	::-webkit-scrollbar-thumb {

@@ -1,28 +1,25 @@
 import { ReactNode } from 'react';
-import { css } from '@emotion/react';
+import Shopping_Cart from 'public/assets/Shopping Cart.svg';
 
-interface NavProps {
-	children: ReactNode;
-}
-
-const navStyle = css`
-	position: absolute;
-	width: 100%;
-	height: 80px;
-	left: 0px;
-	top: 0px;
-
-	background: #2ac1bc;
-	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
-`;
-
-const leftNavStyle = css``;
-const rightNavStyle = css``;
+import { useRouter } from 'next/router';
+import { navStyle, leftNavStyle, rightNavStyle } from './style';
 
 export const Nav = () => {
+	const router = useRouter();
 	return (
 		<div css={navStyle}>
-			<div></div>
+			<div onClick={() => router.push('/')} css={leftNavStyle}>
+				<Shopping_Cart width={51} />
+				<p>WOOWA SHOP</p>
+			</div>
+			<div>
+				<nav aria-label="navigation">
+					<ul css={rightNavStyle}>
+						<li onClick={() => router.push('/cart')}>장바구니</li>
+						<li onClick={() => router.push('/list')}>주문목록</li>
+					</ul>
+				</nav>
+			</div>
 		</div>
 	);
 };
